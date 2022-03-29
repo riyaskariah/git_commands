@@ -1,1 +1,5 @@
 >git init[intialises the git in the folder]
+>git add -A [adds to the staging area]
+>git commit -m"message" [add files to the local repo ]
+>git status [lisiting all untracked files]
+>git push []

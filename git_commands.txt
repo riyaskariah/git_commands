@@ -2,4 +2,6 @@
 >git add -A [adds to the staging area]
 >git commit -m"message" [add files to the local repo ]
 >git status [lisiting all untracked files]
->git push []
+>git remote add name path [adding remote repo]
+>git push -u name master [to push data]
+

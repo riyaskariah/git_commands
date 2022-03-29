@@ -1,0 +1,1 @@
+>git init[intialises the git in the folder]
